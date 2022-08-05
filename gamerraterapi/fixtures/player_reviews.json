@@ -1,0 +1,12 @@
+[
+    {
+        "model": "gamerraterapi.playerReview",
+        "pk": 1,
+        "fields": {
+            "rating": 5,
+            "review": "Dang this game is fun as heck",
+            "game_id": 1,
+            "player_id": 1
+        }
+    }
+]
