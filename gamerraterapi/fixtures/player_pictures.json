@@ -1,0 +1,11 @@
+[
+    {
+        "model": "gamerraterapi.playerPicture",
+        "pk": 1,
+        "fields": {
+            "picture_url": "https://www.wargamer.com/wp-content/uploads/2021/07/dnd-dragons-900x507.jpg",
+            "game_id": 1,
+            "player_id": 1
+        }
+    }
+]

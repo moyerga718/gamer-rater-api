@@ -1,0 +1,28 @@
+[
+    {
+        "model": "gamerraterapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Settlers of Catan",
+            "description": "A great way to get mad at your friends",
+            "designer": "Game Bois",
+            "year_released": 2005,
+            "number_of_players": 6,
+            "duration": 90,
+            "age_recommendation": 13
+        }
+    },
+    {
+        "model": "gamerraterapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "DnD",
+            "description": "Be a little crazy for a while",
+            "designer": "Game Bois",
+            "year_released": 1979,
+            "number_of_players": 6,
+            "duration": 180,
+            "age_recommendation": 13
+        }
+    }
+]
